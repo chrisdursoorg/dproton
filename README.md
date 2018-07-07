@@ -7,6 +7,7 @@ You can download or even cut and paste from this repository or else I can show y
 * .gitignore  ~ this is just about the repository and what files _appear_ to be part of it (you can ignore)
 * CMakeLists.txt  ~ recall what I said about an IDE _just invoking a bunch of services_ this file is for the maker (it calls the compiler, you will add files to this as you progress or rather the IDE will on your behalf)
 * README.md  ~ that is just *this* file you can read
+* data.png  ~ image file you see down in the text below
 * example.dat  ~ this is just the example input file
 * example.dat-post-run ~ this is as per your design after the results of a calculation appended at the end(or rather a simple sign wave)
 * main.c  ~ this was based off that original code created for you.  You will replace this.  See my notes about how to incorporate multiple source files in the same project below.
@@ -60,7 +61,7 @@ What I did next was 1) create an account on `plot.ly`, 2) "Imported" the `exampl
 
 
 
-![Image data.png](https://octodex.github.com/images/yaktocat.png)
+![Image data.png](https://github.com/chrisdursoorg/dproton/raw/master/data.png)
 
 
 
