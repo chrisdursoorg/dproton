@@ -1,0 +1,7 @@
+# ignore emacs tmp files
+*~
+
+# ignore clion stuff
+
+.idea/
+cmake-build-debug/
